@@ -12,7 +12,14 @@ Currently, there is no official template available on the Zotero Style Repositor
 
 ## How to Install in Zotero
 1. Download the `babes-bolyai-university.csl` file from this repository.
-2. Open Zotero and go to **Edit** > **Preferences** (on Windows) or **Zotero** > **Preferences** (on Mac).
+2. Open Zotero and go to **Edit** > **Settings** > **Citations**.
 3. Select the **Cite** tab and then click on the **Styles** sub-tab.
 4. Click the **"+" (Add)** button under the list of styles.
 5. Locate and select the downloaded `.csl` file. Click **Open** and confirm the installation.
+
+## FEATURES FOR QOL:
+Use the CSL Style with Zotero Word Extension, you may need to change the prefered citation style from the extension itself too. 
+
+ZOTERO SAFE DOWNLOAD LINKS:
+Zotero main source: https://www.zotero.org
+Zotero Connector instalation guide (Word extension): https://www.zotero.org/support/word_processor_plugin_installation
